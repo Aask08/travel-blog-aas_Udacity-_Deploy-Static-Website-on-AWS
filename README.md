@@ -3,6 +3,7 @@ This is one of the project in Udacity-_Deploy-Static-Website-on-AWS.
 
 ## Link of site 
 The CloudFront domain URL -> https://dg2srbe4u92g0.cloudfront.net/
+
 The Website-Endpoint URL -> http://travel-blog-aas.s3-website-ap-southeast-2.amazonaws.com
 ## Project Overview
 
